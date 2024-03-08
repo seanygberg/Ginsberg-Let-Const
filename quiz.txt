@@ -12,4 +12,4 @@ let can be reassigned, const cannot
 
 - What is hoisting?
 
-Variable and function declarations are moved to the top of their scope when compiling, before the code is executed.
+Variable and function declarations are moved to the top of their scope when compiling, before the code is executed. 
