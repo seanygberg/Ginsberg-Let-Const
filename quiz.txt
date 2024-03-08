@@ -1,0 +1,15 @@
+- What is the difference between var and let?
+
+var can be redeclared, let cannot
+
+- What is the difference between var and const?
+
+var can be redeclared and reassigned, const cannot
+
+- What is the difference between let and const?
+
+let can be reassigned, const cannot
+
+- What is hoisting?
+
+Variable and function declarations are moved to the top of their scope when compiling, before the code is executed.
